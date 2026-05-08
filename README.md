@@ -28,7 +28,9 @@ Computer Science & Design student at Canara Engineering College, Mangaluru. Inte
 
 <div align="center">
 
-![Shreyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyaskini4&show_icons=true&theme=default&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shreyaskini4&theme=default&hide_border=true)](https://github.com/shreyaskini4)
+
+</div>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaskini4&layout=compact&hide_border=true)
 
