@@ -32,10 +32,4 @@ Computer Science & Design student at Canara Engineering College, Mangaluru. Inte
 
 </div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaskini4&layout=compact&hide_border=true)
-
-</div>
-
-<div align="center">
-  <sub>Feel free to reach out — always up for a good conversation about tech.</sub>
 </div>
