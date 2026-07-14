@@ -56,6 +56,6 @@
 
 <div align="center">
 
-*Thanks for stopping by — always open to connecting with fellow web dev folks!*
+*Thanks for stopping by - always open to connecting with fellow web dev folks!*
 
 </div>
