@@ -6,7 +6,6 @@
 
 [![Email](https://img.shields.io/badge/Email-shreyas.jkini%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyas.jkini@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreyas%20Kini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-kini-99bb1032a/)
-[![GitHub](https://img.shields.io/badge/GitHub-shreyaskini4-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyaskini4)
 
 </div>
 
