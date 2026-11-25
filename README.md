@@ -18,7 +18,7 @@ Third year at Canara Engineering College, Mangaluru.
 
 ## About
 
-I like building tools people actually use. Right now that means desktop apps with Electron and React, plus the web stuff around them. I learn by shipping small projects and digging into how things work underneath.
+I like building tools people actually use. Right now that means desktop apps in Rust, Electron and React, plus the web stuff around them. I learn by shipping small projects and digging into how things work underneath.
 
 <br>
 
@@ -28,15 +28,15 @@ I like building tools people actually use. Right now that means desktop apps wit
 <tr>
 <td width="50%" valign="top">
 
-### CartWatch
-A Windows desktop app that pulls your **Steam, Amazon and Flipkart** wishlists into one price-tracking dashboard, with background checks and tray support.
+### Estus
+A lightweight Windows app written in Rust that tracks **SSD wear** and shows which processes are writing the most. Monitors multiple drives via smartctl, with a tray icon and lifespan projections. No Electron, no web runtime.
 
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![egui](https://img.shields.io/badge/egui-333333?style=flat-square)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
-[View repository](https://github.com/shreyaskini4/CartWatch)
+[View repository](https://github.com/shreyaskini4/Estus)
 
 </td>
 <td width="50%" valign="top">
@@ -82,7 +82,7 @@ My personal site, designed around the OMORI aesthetic: pastel and monochrome pal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,py,c,java,react,electron,nodejs,html,css,git,github,vscode&perline=12" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=rust,js,py,c,java,react,electron,nodejs,html,css,git,github,vscode&perline=13" alt="Tech stack" />
 
 </div>
 
